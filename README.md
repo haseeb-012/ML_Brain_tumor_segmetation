@@ -14,7 +14,7 @@ Brain tumor segmentation is a crucial task in medical image analysis, aiding cli
 ## Dataset
 
 The project is designed to work with publicly available brain tumor MRI datasets (e.g., BraTS)
- [link] (https://universe.roboflow.com/brain-tumor-detection-wsera/tumor-detection-ko5jp/dataset/8). Please ensure your dataset is organized as expected or update the data loading code accordingly.
+ [link](https://universe.roboflow.com/brain-tumor-detection-wsera/tumor-detection-ko5jp/dataset/8). Please ensure your dataset is organized as expected or update the data loading code accordingly.
 
 ## Model Details
 
